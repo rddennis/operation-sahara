@@ -1,0 +1,35 @@
+OPERATION SAHARA — MISSION BRIEFING
+
+Your team has landed at Base Point Alpha for a desert navigation exercise. 
+Your objective: collect intel, organize your supplies, and prepare a mission-ready report.
+
+TASKS:
+
+1. Read the mission intel.
+   - Navigate to mission/intel/
+   - View the first 5 lines of coordinates.txt
+   - View the LAST 3 lines of weather-report.txt
+   - Use `less` to read supply-list.txt
+   - Copy the first 10 lines of supply-list.txt into a new file called extracted-supplies.txt in your home directory
+
+2. Manage your supplies.
+   - Go to the supplies/ directory
+   - Copy water.txt and medical-kit.txt into ~/mission-pack/
+   - Move map.txt into ~/mission-pack/navigation/
+   - Leave radio.txt where it is
+   - Confirm your mission-pack directory contains at least 3 items
+
+3. Analyze the logs.
+   - Navigate to mission/logs/
+   - Concatenate all three day logs into a single file called combined.log
+   - View the total number of lines using `wc -l` 
+     (Note: If you don’t know wc yet, view using head/tail instead)
+
+4. Final Step.
+   - Create a folder called ~/final-briefing
+   - Copy extracted-supplies.txt and combined.log into ~/final-briefing/
+   - Inside final-briefing/, create a file called READY.txt containing the text:
+        Mission files prepared.
+        Awaiting further orders.
+
+End of briefing. Proceed.

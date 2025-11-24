@@ -1,0 +1,41 @@
+SUPPLY INVENTORY LIST
+1: Water rations
+2: Medical kit
+3: Radio equipment
+4: Navigation map
+5: Desert boots
+6: Handheld compass
+7: Energy bars
+8: Binoculars
+9: Flashlight
+10: Multi-tool
+11: Batteries
+12: Canteen
+13: Extra socks
+14: Sunglasses
+15: Headscarf
+16: Sunscreen
+17: Field notebook
+18: Pencil and pen
+19: GPS device
+20: Tent
+21: Ground mat
+22: Ration packs
+23: Water purification tablets
+24: Emergency beacon
+25: Repair tape
+26: Spare radio batteries
+27: Extra canteens
+28: First aid manual
+29: Dust mask
+30: Gloves
+31: Spare boots
+32: Tool kit
+33: Small stove
+34: Fuel canister
+35: Cooking pot
+36: Foldable chair
+37: Spare uniform
+38: Cleaning cloth
+39: Rope
+40: Spare tent components

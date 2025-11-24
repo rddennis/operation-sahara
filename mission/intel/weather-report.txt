@@ -1,0 +1,21 @@
+WEATHER REPORT — SAHARA REGION
+Day 1: Clear skies, strong sun.
+Day 2: Light winds.
+Day 3: Temperature rising.
+Day 4: Possible sand disturbance.
+Day 5: Clear morning, dusty evening.
+Day 6: Hot, low visibility.
+Day 7: Dry conditions.
+Day 8: Heat advisory.
+Day 9: Calm morning.
+Day 10: Shifting winds.
+Day 11: High UV alert.
+Day 12: Dust storm forming.
+Day 13: Dust storm increasing.
+Day 14: Dust storm severe.
+Day 15: Dust storm passing.
+Day 16: Overcast.
+Day 17: Clear skies.
+Day 18: Light breeze.
+Day 19: Stable temperatures.
+Day 20: High visibility.
